@@ -1,3 +1,4 @@
+pip install --upgrade pip
 streamlit==1.17.0
 langchain==0.0.16
 langchain-community==0.0.16
